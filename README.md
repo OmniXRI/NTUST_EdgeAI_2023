@@ -14,7 +14,7 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 ![Jack Hsu](https://1.bp.blogspot.com/-ZnmpktLAa2w/X-qQHv8N0XI/AAAAAAAADFA/AfjqWTikyAkMF2KhxDQW9pHN6r9PSCA7QCLcBGAsYHQ/w200-h200/JackHsu.png)
 
 許哲豪 (Jack Hsu) 博士  
-臺灣科技大學 資工系 兼任助理教授  
+臺灣科技大學 資訊工程系 兼任助理教授  
 [【電子信箱：omnixir@gmail.com】](mailto:omnixir@gmail.com)  
 [【個人網站：omnixri.blogspot.com】](http://omnixri.blogspot.com)  
 
