@@ -15,8 +15,8 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 
 許哲豪 (Jack Hsu) 博士  
 臺灣科技大學 資工系 兼任助理教授  
-[【電子信箱】](omnixir@gmail.com) 
-[【個人網站】](http://omnixri.blogspot.com)
+[【電子信箱】](mailto:omnixir@gmail.com)  
+[【個人網站】](http://omnixri.blogspot.com)  
 
 ## 課程時間
 2023/2/22 ~ 2022/6/07，每週三上午第2,3,4節  
