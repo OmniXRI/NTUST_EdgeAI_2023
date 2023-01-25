@@ -15,7 +15,7 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 
 許哲豪 (Jack Hsu) 博士  
 臺灣科技大學 資工系 兼任助理教授  
-omnixir@gmail.com  
+[【電子信箱】](omnixir@gmail.com) 
 [【個人網站】](http://omnixri.blogspot.com)
 
 ## 課程時間
