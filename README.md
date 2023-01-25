@@ -32,8 +32,10 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 7. 邊緣智慧案例實作  
 8. 附錄(Appendix)  
 
+## 課程簡報及作業
+（待更新...）
   
-[完整課程內容說明(Wiki Page)](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki)
+[完整課程內容說明(Wikis Page)](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki)
 
 **相關內容僅供教學參考，如有筆誤或不慎觸犯著作權，歡迎來信指正，將會儘速處理，謝謝！**  
  
