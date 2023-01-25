@@ -15,8 +15,8 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 
 許哲豪 (Jack Hsu) 博士  
 臺灣科技大學 資工系 兼任助理教授  
-[【電子信箱】](mailto:omnixir@gmail.com)  
-[【個人網站】](http://omnixri.blogspot.com)  
+[【電子信箱：omnixir@gmail.com】](mailto:omnixir@gmail.com)  
+[【個人網站：omnixri.blogspot.com】](http://omnixri.blogspot.com)  
 
 ## 課程時間
 2023/2/22 ~ 2022/6/07，每週三上午第2,3,4節  
@@ -24,54 +24,14 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 ## 課程大綱
 
 1. 人工智慧簡介  
-  1.1. 人工智慧  
-  1.2. 機器學習  
-  1.3. 深度學習  
-  1.4. 雲端與邊緣運算  
-
 2. 邊緣運算硬體  
-  2.1. 基本運算原理  
-  2.2. 加速運算晶片  
-  2.3. 開發板類型  
-  2.4. 硬體選用評估  
-
 3. 資料集建置與標註  
-  3.1 資料集建置  
-  3.2 公開資料集  
-  3.3 資料集標註  
-  3.4 資料集迷思  
-
 4. 開源模型訓練工具  
-  4.1 AI工作流程  
-  4.2 常見模型算法  
-  4.3 開源訓練工具  
-  4.4 影像分類範例  
-
 5. 開源模型推論工具  
-  5.1 邊緣推論工具簡介  
-  5.2 OpenVINO簡介  
-  5.3 OpenVINO多媒體處理  
-  5.4 OpenVINO範例  
-
 6. 模型優化與佈署  
-  6.1 模型訓練優化  
-  6.2 加速訓練方式  
-  6.3 模型推論優化  
-  6.4 OpenVINO優化工具  
-
 7. 邊緣智慧案例實作  
-  7.1. 影像分類  
-  7.2. 物件偵測  
-  7.3. 人臉辨識  
-  7.4. 影像分割  
-  7.5. 姿態估測  
-  7.6. 喚醒詞辨識 (tinyML)
-  7.7. 運動手勢辨識 (tinyML)
-
 8. 附錄(Appendix)  
-  A. 創意專題製作與分享  
-  C. Intel DevCloud安裝與測試  
-  D. Google Colab進階使用  
+
   
 [完整課程內容說明(Wiki Page)](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki)
 
