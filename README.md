@@ -36,8 +36,8 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 （內容待更新...）
 | 週數 | 日期 | 課程主題及大綱 | 課程簡報及作業 | 
 |:---:|:---:|:---:|:---:|
-| 01 | 02/22 | 0. 課程簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch0_Course/20230222_NTUST_EdgeAI_0_%E8%AA%B2%E7%A8%8B%E7%B0%A1%E4%BB%8B.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch01_Introduction), [作業] | 
-| 01 | 02/22 | 1. 人工智慧簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch1_Introduction/20230222_NTUST_EdgeAI_1_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch01_Introduction), [作業] | 
+| 01 | 02/22 | 0. 課程簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch0_Course/20230222_NTUST_EdgeAI_0_%E8%AA%B2%E7%A8%8B%E7%B0%A1%E4%BB%8B.pdf) | 
+| 01 | 02/22 | 1. 人工智慧簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch1_Introduction/20230222_NTUST_EdgeAI_1_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch01_Introduction) | 
 | 02 | 03/01 | 2. 邊緣運算硬體 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch02_Hardware), [作業] | 
 | 03 | 03/08 | 3. 資料集建置與標註 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch03_Data_Annotation), [作業] | 
 | 04 | 03/15 | 4. 開源模型訓練工具 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch04_Training_Tools), [作業] | 
