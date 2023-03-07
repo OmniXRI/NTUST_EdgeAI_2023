@@ -39,7 +39,7 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 | 01 | 02/22 | 0. 課程簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch0_Course/20230222_NTUST_EdgeAI_0_%E8%AA%B2%E7%A8%8B%E7%B0%A1%E4%BB%8B.pdf) | 
 | 01 | 02/22 | 1. 人工智慧簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch1_Introduction/20230222_NTUST_EdgeAI_1_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch01_Introduction) | 
 | 02 | 03/01 | 2. 邊緣運算硬體 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch2_Hardware/20220301_NTUST_EdgeAI_2_%E9%82%8A%E7%B7%A3%E9%81%8B%E7%AE%97%E7%A1%AC%E9%AB%94.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch02_Hardware) | 
-| 03 | 03/08 | 3. 資料集建置與標註 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch03_Data_Annotation), [作業] | 
+| 03 | 03/08 | 3. 資料集建置與標註 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch3_Dataset_Annotation/20230308_NTUST_EdgeAI_3_%E8%B3%87%E6%96%99%E9%9B%86%E5%BB%BA%E7%BD%AE%E8%88%87%E6%A8%99%E8%A8%BB.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch03_Data_Annotation), [作業] | 
 | 04 | 03/15 | 4. 開源模型訓練工具 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch04_Training_Tools), [作業] | 
 | 05 | 03/22 | 5. 開源模型推論工具 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch05_Inference_Tools), [作業] |  
 | 06 | 03/29 | 6. 模型優化與佈署 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch06_Optimization_Deployment), [作業] | 
