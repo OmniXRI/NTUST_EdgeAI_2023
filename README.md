@@ -53,7 +53,7 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 | 14 | 05/24 | 7.6. 喚醒詞辨識 | [PDF] | [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| [作業] |
 | 15 | 05/31 | 7.7. 運動手勢辨識 | [PDF] | [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | [作業]|
 | 16 | 06/07 | 期末報告 |  |  |  |
-| -- | --/-- | 8. 附錄(Appendix) | [PDF] | [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch08_Appendix) | [作業] |
+| -- | --/-- | 8. 附錄(Appendix) | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/tree/main/Ch8_Appendix)| [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch08_Appendix) | |
   
 [完整課程內容說明(Wikis Page)](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki)
 
