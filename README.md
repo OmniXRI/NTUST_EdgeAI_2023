@@ -40,8 +40,8 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 | 01 | 02/22 | 1. 人工智慧簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch1_Introduction/20230222_NTUST_EdgeAI_1_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch01_Introduction) | 
 | 02 | 03/01 | 2. 邊緣運算硬體 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch2_Hardware/20220301_NTUST_EdgeAI_2_%E9%82%8A%E7%B7%A3%E9%81%8B%E7%AE%97%E7%A1%AC%E9%AB%94.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch02_Hardware) | 
 | 03 | 03/08 | 3. 資料集建置與標註 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch3_Dataset_Annotation/20230308_NTUST_EdgeAI_3_%E8%B3%87%E6%96%99%E9%9B%86%E5%BB%BA%E7%BD%AE%E8%88%87%E6%A8%99%E8%A8%BB.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch03_Data_Annotation), [HW1](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch3_Dataset_Annotation/20230308_HW1_%E8%B3%87%E6%96%99%E9%9B%86%E5%BB%BA%E7%BD%AE%E8%88%87%E6%A8%99%E8%A8%BB.pdf) | 
-| 04 | 03/15 | 4. 開源模型訓練工具 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch04_Training_Tools), [作業] | 
-| 05 | 03/22 | 5. 開源模型推論工具 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch05_Inference_Tools), [作業] |  
+| 04 | 03/15 | 4. 開源模型訓練工具 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch4_Training_Tools/20230315_NTUST_EdgeAI_4_%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E5%B7%A5%E5%85%B7.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch04_Training_Tools) | 
+| 05 | 03/22 | 5. 開源模型推論工具 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch5_Inference_Tools/20230322_NTUST_EdgeAI_5_%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%8E%A8%E8%AB%96%E5%B7%A5%E5%85%B7.pdf), [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch05_Inference_Tools) |  
 | 06 | 03/29 | 6. 模型優化與佈署 | [PDF], [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch06_Optimization_Deployment), [作業] | 
 | 07 | 04/05 | 春假 |  | 
 | 08 | 04/12 | 期中報告 |  | 
