@@ -45,8 +45,8 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 | 06 | 03/29 | 6. 模型優化與佈署 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch6_Optimization_Deployment/20230329_NTUST_EdgeAI_6_%E9%82%8A%E7%B7%A3%E6%99%BA%E6%85%A7%E5%84%AA%E5%8C%96%E8%88%87%E4%BD%88%E7%BD%B2.pdf) | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch06_Optimization_Deployment) |  |
 | 07 | 04/05 | 春假 |  |  |  |
 | 08 | 04/12 | 期中報告 |  |  |  |
-| 09 | 04/19 | 7.1. 影像分類 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)  | [作業] |
-| 10 | 04/26 | 7.2. 物件偵測 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | [作業] |
+| 09 | 04/19 | 7.1. 影像分類 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch7_Implementations/Ch7-1_Image_Classification/20230419_NTUST_EdgeAI_7_1_%E5%BD%B1%E5%83%8F%E5%88%86%E9%A1%9E.pdf) | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)  |   |
+| 10 | 04/26 | 7.2. 物件偵測 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) |  |
 | 11 | 05/03 | 7.3. 人臉辨識 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| [作業]|
 | 12 | 05/10 | 7.4. 影像分割 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | [作業]|
 | 13 | 05/17 | 7.5. 姿態估測 | [PDF] |  [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| [作業] |
