@@ -47,11 +47,11 @@ As adoption rates rise for artificial intelligence and deep learning, the abilit
 | 08 | 04/12 | 期中報告 |  |  |  |
 | 09 | 04/19 | 7.1. 影像分類 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch7_Implementations/Ch7-1_Image_Classification/20230419_NTUST_EdgeAI_7_1_%E5%BD%B1%E5%83%8F%E5%88%86%E9%A1%9E.pdf) | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) |   |
 | 10 | 04/26 | 7.2. 物件偵測 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch7_Implementations/Ch7-2_Object_Detection/20230426_NTUST_EdgeAI_7_2_%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC.pdf) | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) |  |
-| 11 | 05/03 | 7.3. 人臉辨識 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| [作業]|
-| 12 | 05/10 | 7.4. 影像分割 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | [作業]|
-| 13 | 05/17 | 7.5. 姿態估測 | [PDF] |  [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| [作業] |
-| 14 | 05/24 | 7.6. 喚醒詞辨識 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| [作業] |
-| 15 | 05/31 | 7.7. 運動手勢辨識 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | [作業]|
+| 11 | 05/03 | 7.3. 人臉辨識 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch7_Implementations/Ch7-3_Face_Recognition/20230503_NTUST_EdgeAI_7_3_%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98.pdf) | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| |
+| 12 | 05/10 | 7.4. 影像分割 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch7_Implementations/Ch7-4_Image_Segmentation/20230510_NTUST_EdgeAI_7_4_%E5%BD%B1%E5%83%8F%E5%88%86%E5%89%B2.pdf) | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | |
+| 13 | 05/17 | 7.5. 姿態估測 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/blob/main/Ch7_Implementations/Ch7-5_Pose_Estimation/20230517_NTUST_EdgeAI_7_5_%E5%A7%BF%E6%85%8B%E4%BC%B0%E6%B8%AC.pdf) |  [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)|  |
+| 14 | 05/24 | 7.6. 喚醒詞辨識 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations)| |
+| 15 | 05/31 | 7.7. 運動手勢辨識 | [PDF] | [Wiki](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch07_Implementations) | |
 | 16 | 06/07 | 期末報告 |  |  |  |
 | -- | --/-- | 8. 附錄(Appendix) | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2023/tree/main/Ch8_Appendix)| [Wikis](https://github.com/OmniXRI/NTUST_EdgeAI_2023/wiki/Ch08_Appendix) | |
   
